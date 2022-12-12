@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-11-28T21:43:31+00:00
+
+====== ByWidth ======
+--------------------
+{{../../Portrait_768x1024_0.png?width=1152}}
+{{../../Portrait_768x1024_1.png?width=1152}}
+{{../../Portrait_768x1024_2.png?width=1152}}
+{{../../Portrait_768x1024_3.png?width=1152}}
+{{../../Portrait_768x1024_4.png?width=1152}}
+{{../../Portrait_768x1024_5.png?width=1536}}
+{{../../Portrait_768x1024_6.png?width=1536}}
+{{../../Portrait_768x1024_7.png?width=1536}}
+{{../../Portrait_768x1024_8.png?width=1536}}
